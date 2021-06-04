@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    俺のLaravel
+                    私のLaravel
                 </div>
 
                 <div class="links">
